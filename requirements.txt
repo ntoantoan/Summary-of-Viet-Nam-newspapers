@@ -1,0 +1,17 @@
+transformers
+tqdm
+torch>=1.0.1
+numpy
+scikit-learn
+scipy
+nltk
+vncorenlp
+fairseq
+fastBPE
+fastapi
+uvicorn
+pyyaml==5.4.1
+openai
+confluent_kafka
+pymongo
+# pip install -U sentence-transformers
